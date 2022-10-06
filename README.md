@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ahmed Abdikarim
 =======================================================================================================================================
 
-Full Stack Web Developer | Andriod & Ios Developer | Penetration Tester | Graphic Designer | WEB 3.0 Blockchain and Solidity.
+Full Stack Web Developer | Andriod & Ios Developer | Penetration Tester | Graphic Designer | WEB 3.0 Blockchain and Solidity |Network Administrator.
 -----------------------------------------------------------------------------------------------------------------------------
 
 I am Frontend and Backend Web Developer, Andriod and Ios Developer, Graphic Designer, and Penetration Tester
